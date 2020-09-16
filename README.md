@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="left">
+  Olá, me chamo Nicholas sou <strong>Desenvolvedor Full stack</strong> e apaixonado por <strong>UI Design.</strong><br>
+</p>
 
-<!--
-**nicholasmacedoo/nicholasmacedoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  🚀 Conhecimentos: <strong>HTML5, CSS3 e PHP.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  📕 Estudando atualmente: <strong>JavaScript, Typescript, Node Js, ReactJS e React Native.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🔥 Pretende aprender: <strong>Machine Learning, UX Design, UI Design e After Effects (Animações para interfaces).</strong>
+</p>
+
+<p align="left">
+  💌 Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+</p>
+
+<a href="https://www.linkedin.com/in/nicholas-macedo-b9a20b119/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Nicholas%20Macedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-macedo-b9a20b119/" /></a>
