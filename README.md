@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🚀 Conhecimentos: <strong>HTML5, CSS3 e PHP.</strong>
+  🚀 Conhecimentos: <strong>HTML5, CSS3, NodeJs e ReactJS.</strong>
 </p>
 
 <p align="left">
-  📕 Estudando atualmente: <strong>JavaScript, Typescript, Node Js, ReactJS e React Native.</strong>
+  📕 Estudando atualmente: <strong>React Native.</strong>
 </p>
 
 <p align="left">
